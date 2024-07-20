@@ -11,7 +11,7 @@ I am currently a graduate student at Arizona State University pursuing my Master
   - 🏫 I graduated with my B.S. in Computer Science from ASU in May 2024.
   - 💻 I'm interested in learning more about Cloud Computing and Machine Learning.
   - ☀️ In my free time, I enjoy cycling, swimming, and traveling with my chihuahua.
-  - 📱 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-angelinahobbs-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/angelinahobbs)
+  - 📱 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-angelinahobbs-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angelinahobbs)
 
 ### 🧰 Languages and Tools:
 <div>
