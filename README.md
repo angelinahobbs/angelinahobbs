@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src=chihuahua width="400"/>
+  <img src=mydog!.png width="400"/>
 </div>
 
 <h1 align="center">
